@@ -1,0 +1,17 @@
+{
+    "name": "adams/weird",
+    "authors": [
+        {
+            "name": "Adam Synnott",
+            "email": "info@adamsynnott.id.au"
+        }
+    ],
+    "require": {
+    	"rayzor65/module-tutorial": "1.0.2" 
+    },
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    }
+}
