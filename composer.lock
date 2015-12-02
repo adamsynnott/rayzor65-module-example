@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0b280b316d46b7e745c0f3b2ae73e92e",
-    "content-hash": "4a972000800d8eb6efb54835d5cd6f7f",
+    "hash": "88574a953cce41032f0c34fccdd33488",
+    "content-hash": "d24266b8259205197908868a6ed06711",
     "packages": [
         {
             "name": "rayzor65/module-tutorial",
